@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jerry Rawlings 👋</h1>
+<h1 align="center">Hi there, I'm Jerry Rolince 👋</h1>
 
 <h3 align="center">Full-Stack Developer | Backend & Systems Enthusiast | React Native</h3>
 
