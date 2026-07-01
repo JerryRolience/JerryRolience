@@ -1,24 +1,117 @@
-# 💫 About Me:
-I'm currently working on a  severside project.<br>I'm currently learning on Database course but i have already done with javascript ,typescript and node js<br>I'm looking for help with a little bit of Graphql schema creation<br>I've spent more time debugging code than sleeping some nights<br>I created a personal website called forkify that showcases my love for both web development and cooking.<br>I once fixed a major bug by adding a single parenthesis
+<h1 align="center">Hi there, I'm Jerry Rawlings 👋</h1>
 
+<h3 align="center">Full-Stack Developer | Backend & Systems Enthusiast | React Native</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jerry Rawlings) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__jerry__rawlings__) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Ra92907928Jerry) 
-
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JerryRolience&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JerryRolience&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryRolience&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JerryRolience&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jerry-rolince-182770335/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Ra92907928Jerry">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:jerryrawlings892@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://marvelous-sawine-c1c46b.netlify.app/">
+    <img src="https://img.shields.io/badge/Resume-4B32C3?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JerryRolience&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+I'm a software developer passionate about building scalable, reliable, and user-centered applications that solve real-world problems. I work across the full stack — from crafting intuitive web and mobile interfaces to designing robust backend systems, APIs, and databases.
+
+- 🔭 Currently building **full-stack web platforms** and **React Native mobile apps**
+- 🌱 Deepening my knowledge of **backend engineering, distributed systems, and system architecture**
+- 💼 Seeking opportunities in **Full-Stack Development, Backend/Systems Engineering, and React Native Mobile Development**
+- 🎓 Software developer with **2 years of hands-on experience**, currently a student
+- ⚡ I value clean code, thoughtful system design, and continuous learning
+- 📫 Reach me at **jerryrawlings892@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+**Frontend & Mobile**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+**Backend & Realtime**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+#### 🏥 [AfyaCare — Hospital Management Information System](https://github.com/JerryRolience/medcare-HMIS)
+A modern, full-stack HMIS that digitizes hospital operations — patients, appointments, admissions, EMRs, pharmacy inventory, prescriptions, billing, and staff management through a secure, role-based platform.
+- **Stack:** Next.js 15, React 19, TypeScript, Tailwind CSS, shadcn/ui, PostgreSQL (Supabase), Prisma, Clerk Auth, TanStack Query, Zod
+- **Highlights:** Role-based access control, cursor-based pagination, audit-friendly architecture, planned AI-powered clinical decision support
+
+#### ✈️ [Kenya Airways Online System](https://github.com/JerryRolience/kenya-airways)
+A comprehensive flight booking platform supporting multi-class cabin booking, interactive seat maps, multi-passenger booking, and secure payments including M-Pesa integration, with a full admin panel for HR and operations.
+- **Stack:** Next.js 16, TypeScript, PostgreSQL (Supabase), Prisma 7, Clerk Auth, Tailwind CSS 4, shadcn/ui, React Hook Form + Zod, TanStack Query
+- **Highlights:** Visual seat selection, employee/applicant management, printable reports, M-Pesa payment integration
+
+#### 📚 [University Library Management System](https://github.com/JerryRolience/University-Library)
+A production-ready library management platform digitizing operations for students and administrators, with automated workflows and a powerful admin dashboard.
+- **Stack:** Next.js, TypeScript, PostgreSQL (Neon), Drizzle ORM, NextAuth.js, Upstash Redis & QStash, Resend, ImageKit
+- **Highlights:** Automated borrowing reminders, PDF receipt generation, Redis caching & rate limiting, analytics dashboard
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JerryRolience&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryRolience&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JerryRolience&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm always open to discussing new opportunities, collaborating on interesting projects, or just talking tech. Feel free to reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jerry-rolince-182770335/">LinkedIn</a> •
+  <a href="https://x.com/Ra92907928Jerry">X (Twitter)</a> •
+  <a href="mailto:jerryrawlings892@gmail.com">Email</a> •
+  <a href="https://marvelous-sawine-c1c46b.netlify.app/">Portfolio/Resume</a>
+</p>
